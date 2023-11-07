@@ -7,7 +7,7 @@ class DataLake:
     
     def __init__(self):
         self.title = 'DataLake'
-        self.container = 'io-local'
+        self.container = 'test-1'
         self.ctl = DataLakeController()
         
 
