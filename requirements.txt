@@ -1,0 +1,6 @@
+python-dotenv
+streamlit
+watchdog
+pydantic
+azure-storage-blob
+azure-identity
